@@ -1,39 +1,62 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+        "nombre":"Arturo",
+        "apellido":"Pendala",
+        "Especialidad":"Pediatría",
+        "img":"",
+        "direccion":"10 Nº1230",
+        "geo-pin":{
+            "lat":-34.9388551,
+            "lng":-57.9503485},
+        "prepagas": true,
+        "obras sociales": true
     },
     {
-      "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+        "nombre":"Amancio",
+        "apellido":"Giorolenga",
+        "Especialidad":"Pediatría",
+        "img":"",
+        "direccion":"18 Nº657",
+        "geo-pin":{
+            "lat":-34.922033,
+            "lng":-57.9675097},
+        "prepagas": false,
+        "obras sociales": true
     },
     {
-      "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
-    },    
+        "nombre":"Anastasia",
+        "apellido":"Pandolfi",
+        "Especialidad":"Pediatría",
+        "img":"",
+        "direccion":"21 Nº515",
+        "geo-pin":{
+            "lat":-34.9226055,
+            "lng":-57.9739163},
+        "prepagas": true,
+        "obras sociales": true
+    },
     {
-      "id": 4,
-      "title": "Post 4",
-      "description": "this is description 4"
+        "nombre":"Sara",
+        "apellido":"Basterra",
+        "Especialidad":"Pediatría",
+        "img":"",
+        "direccion":"47 Nº1004",
+        "geo-pin":{
+            "lat":-34.9207529,
+            "lng":-57.9626108},
+        "prepagas": true,
+        "obras sociales": false
+    },
+    {
+        "nombre":"Diego Armando",
+        "apellido":"Delpopolo",
+        "Especialidad":"Pediatría",
+        "img":"",
+        "direccion":"4 Nº979",
+        "geo-pin":{
+            "lat":-34.9131086,
+            "lng":-57.945288},
+        "prepagas": false,
+        "obras sociales": true
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
-}
+]
