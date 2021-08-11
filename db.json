@@ -22,8 +22,8 @@
         "img":"",
         "direccion":"18 Nº657",
         "geopin":{
-            "lat":-34.922033,
-            "lng":-57.9675097},
+            "lat":-34.9219637820646,
+            "lng":-57.965175673595056},
         "prepagas": false,
         "obras sociales": true
     },
@@ -35,8 +35,8 @@
         "img":"",
         "direccion":"21 Nº515",
         "geopin":{
-            "lat":-34.9226055,
-            "lng":-57.9739163},
+            "lat":-34.9224359911779,
+            "lng":-57.9715597573808},
         "prepagas": true,
         "obras sociales": true
     },
@@ -46,10 +46,10 @@
         "apellido":"Basterra",
         "Especialidad":"Pediatría",
         "img":"",
-        "direccion":"47 Nº1004",
+        "direccion":"47 Nº1032",
         "geopin":{
-            "lat":-34.9207529,
-            "lng":-57.9626108},
+            "lat":-34.921156292477875,
+            "lng":-57.96095771977155},
         "prepagas": true,
         "obras sociales": false
     },
@@ -61,8 +61,8 @@
         "img":"",
         "direccion":"4 Nº979",
         "geopin":{
-            "lat":-34.9131086,
-            "lng":-57.945288},
+            "lat":-34.913014978848736,
+            "lng":-57.94530199556483},
         "prepagas": false,
         "obras sociales": true
     }
