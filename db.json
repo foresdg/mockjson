@@ -1,4 +1,5 @@
-[
+{
+    [
     {
         "nombre":"Arturo",
         "apellido":"Pendala",
@@ -60,3 +61,4 @@
         "obras sociales": true
     }
 ]
+}
