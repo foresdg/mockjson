@@ -3,6 +3,7 @@
     "get": [
     {
         "id": 1,
+        "titulo": "Dr",
         "nombre":"Arturo",
         "apellido":"Pendala",
         "Especialidad":"Pediatría",
@@ -16,6 +17,7 @@
     },
     {
         "id": 2,
+        "titulo": "Dr",
         "nombre":"Amancio",
         "apellido":"Giorolenga",
         "Especialidad":"Pediatría",
@@ -29,6 +31,7 @@
     },
     {
         "id": 3,
+        "titulo": "Dra",
         "nombre":"Anastasia",
         "apellido":"Pandolfi",
         "Especialidad":"Pediatría",
@@ -42,6 +45,7 @@
     },
     {
         "id": 4,
+        "titulo": "Dra",
         "nombre":"Sara",
         "apellido":"Basterra",
         "Especialidad":"Pediatría",
@@ -55,6 +59,7 @@
     },
     {
         "id": 5,
+        "titulo": "Dr",
         "nombre":"Diego Armando",
         "apellido":"Delpopolo",
         "Especialidad":"Pediatría",
