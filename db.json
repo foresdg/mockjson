@@ -1,6 +1,7 @@
 {
-   "posts": [
+   [
     {
+        "id": 1,
         "nombre":"Arturo",
         "apellido":"Pendala",
         "Especialidad":"Pediatría",
@@ -13,6 +14,7 @@
         "obras sociales": true
     },
     {
+        "id": 2,
         "nombre":"Amancio",
         "apellido":"Giorolenga",
         "Especialidad":"Pediatría",
@@ -25,6 +27,7 @@
         "obras sociales": true
     },
     {
+        "id": 3,
         "nombre":"Anastasia",
         "apellido":"Pandolfi",
         "Especialidad":"Pediatría",
@@ -37,6 +40,7 @@
         "obras sociales": true
     },
     {
+        "id": 4,
         "nombre":"Sara",
         "apellido":"Basterra",
         "Especialidad":"Pediatría",
@@ -49,6 +53,7 @@
         "obras sociales": false
     },
     {
+        "id": 5,
         "nombre":"Diego Armando",
         "apellido":"Delpopolo",
         "Especialidad":"Pediatría",
