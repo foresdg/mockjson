@@ -9,8 +9,8 @@
         "img":"",
         "direccion":"10 Nº1230",
         "geopin":{
-            "lat":-34.9388551,
-            "lng":-57.9503485},
+            "lat":-57.9503485,
+            "lng":-34.9388551},
         "prepagas": true,
         "obras sociales": true
     },
