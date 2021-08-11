@@ -6,7 +6,7 @@
         "titulo": "Dr",
         "nombre":"Arturo",
         "apellido":"Pendala",
-        "Especialidad":"Pediatría",
+        "especialidad":"Pediatría",
         "img":"",
         "direccion":"10 Nº1230",
         "geopin":{
@@ -20,7 +20,7 @@
         "titulo": "Dr",
         "nombre":"Amancio",
         "apellido":"Giorolenga",
-        "Especialidad":"Pediatría",
+        "especialidad":"Pediatría",
         "img":"",
         "direccion":"18 Nº657",
         "geopin":{
@@ -34,7 +34,7 @@
         "titulo": "Dra",
         "nombre":"Anastasia",
         "apellido":"Pandolfi",
-        "Especialidad":"Pediatría",
+        "especialidad":"Pediatría",
         "img":"",
         "direccion":"21 Nº515",
         "geopin":{
@@ -48,7 +48,7 @@
         "titulo": "Dra",
         "nombre":"Sara",
         "apellido":"Basterra",
-        "Especialidad":"Obstetricia",
+        "especialidad":"Obstetricia",
         "img":"",
         "direccion":"47 Nº1032",
         "geopin":{
@@ -62,7 +62,7 @@
         "titulo": "Dr",
         "nombre":"Diego Armando",
         "apellido":"Del Pópolo",
-        "Especialidad":"Obstetricia",
+        "especialidad":"Obstetricia",
         "img":"",
         "direccion":"4 Nº979",
         "geopin":{
