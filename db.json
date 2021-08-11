@@ -48,7 +48,7 @@
         "titulo": "Dra",
         "nombre":"Sara",
         "apellido":"Basterra",
-        "Especialidad":"Pediatría",
+        "Especialidad":"Obstetricia",
         "img":"",
         "direccion":"47 Nº1032",
         "geopin":{
@@ -61,8 +61,8 @@
         "id": 5,
         "titulo": "Dr",
         "nombre":"Diego Armando",
-        "apellido":"Delpopolo",
-        "Especialidad":"Pediatría",
+        "apellido":"Del Pópolo",
+        "Especialidad":"Obstetricia",
         "img":"",
         "direccion":"4 Nº979",
         "geopin":{
