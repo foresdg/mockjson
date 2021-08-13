@@ -55,7 +55,7 @@
             "lat":-34.921156292477875,
             "lng":-57.96095771977155},
         "prepagas": true,
-        "obrassoc": false
+        "obrassoc": true
     },
     {
         "id": 5,
