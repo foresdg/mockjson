@@ -13,7 +13,7 @@
             "lat":-34.92173622799304,
             "lng":-57.94736216609252},
         "prepagas": true,
-        "obras sociales": true
+        "obrassoc": true
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
             "lat":-34.9219637820646,
             "lng":-57.965175673595056},
         "prepagas": false,
-        "obras sociales": true
+        "obrassoc": true
     },
     {
         "id": 3,
@@ -41,7 +41,7 @@
             "lat":-34.9224359911779,
             "lng":-57.9715597573808},
         "prepagas": true,
-        "obras sociales": true
+        "obrassoc": true
     },
     {
         "id": 4,
@@ -55,7 +55,7 @@
             "lat":-34.921156292477875,
             "lng":-57.96095771977155},
         "prepagas": true,
-        "obras sociales": false
+        "obrassoc": false
     },
     {
         "id": 5,
@@ -69,7 +69,7 @@
             "lat":-34.913014978848736,
             "lng":-57.94530199556483},
         "prepagas": false,
-        "obras sociales": true
+        "obrassoc": true
     }
 ]
 }
